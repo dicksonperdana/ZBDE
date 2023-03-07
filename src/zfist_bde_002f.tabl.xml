@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TABL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD02V>
+    <TABNAME>ZFIST_BDE_002F</TABNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <TABCLASS>INTTAB</TABCLASS>
+    <DDTEXT>Structure ZFIF_BDE_002 Footer</DDTEXT>
+   </DD02V>
+   <DD03P_TABLE>
+    <DD03P>
+     <FIELDNAME>CRTD_BY</FIELDNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <INTTYPE>C</INTTYPE>
+     <INTLEN>000300</INTLEN>
+     <DATATYPE>CHAR</DATATYPE>
+     <LENG>000150</LENG>
+     <MASK>  CHAR</MASK>
+     <DDTEXT>Created by</DDTEXT>
+    </DD03P>
+    <DD03P>
+     <FIELDNAME>APPR_BY</FIELDNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <INTTYPE>C</INTTYPE>
+     <INTLEN>000300</INTLEN>
+     <DATATYPE>CHAR</DATATYPE>
+     <LENG>000150</LENG>
+     <MASK>  CHAR</MASK>
+     <DDTEXT>Approved by</DDTEXT>
+    </DD03P>
+    <DD03P>
+     <FIELDNAME>POST_BY</FIELDNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <INTTYPE>C</INTTYPE>
+     <INTLEN>000300</INTLEN>
+     <DATATYPE>CHAR</DATATYPE>
+     <LENG>000150</LENG>
+     <MASK>  CHAR</MASK>
+     <DDTEXT>Posted by</DDTEXT>
+    </DD03P>
+   </DD03P_TABLE>
+  </asx:values>
+ </asx:abap>
+</abapGit>
